@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sabrina Nguyen</h1>
-<h3 align="center">A passionate Computer Science and Mathematics Student at the University of Massachusetts Amherst</h3>
+<h1 align="center">Hi 👋, I'm Sabrina Nguyen!</h1>
+<h3 align="center">Computer Science and Mathematics Student at the University of Massachusetts Amherst</h3>
 
-- 📫 How to reach me **sknguyen@umass.edu**
+- 📫 Reach me at: **sknguyen@umass.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
